@@ -1,0 +1,32 @@
+{
+  "Food": {
+    "co2_factor": 1.2,
+    "water_factor": 50,
+    "waste_factor": 1.0,
+    "social_multiplier": 50
+  },
+  "Clothes": {
+    "co2_factor": 2.1,
+    "water_factor": 30,
+    "waste_factor": 0.8,
+    "social_multiplier": 40
+  },
+  "Electronics": {
+    "co2_factor": 4.5,
+    "water_factor": 15,
+    "waste_factor": 0.9,
+    "social_multiplier": 70
+  },
+  "Furniture": {
+    "co2_factor": 3.2,
+    "water_factor": 25,
+    "waste_factor": 1.2,
+    "social_multiplier": 60
+  },
+  "Books": {
+    "co2_factor": 1.8,
+    "water_factor": 10,
+    "waste_factor": 0.7,
+    "social_multiplier": 35
+  }
+}

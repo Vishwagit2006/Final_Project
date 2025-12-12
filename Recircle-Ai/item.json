@@ -1,0 +1,1102 @@
+[
+  {
+    "id": 1,
+    "category": "Furniture",
+    "product": "3-Seater Sofa",
+    "image": "https://www.josmostudio.com/cdn/shop/files/pablo_3s_-_2.webp?v=1742980593&width=1946",
+    "description": "Comfortable 3-seater fabric sofa.",
+    "price": "1999",
+    "rating": "4",
+    "description2": "A perfect blend of style and functionality, this item stands out for its superior craftsmanship. Ideal for both everyday use and special occasions."
+  },
+  {
+    "id": 2,
+    "category": "Furniture",
+    "product": "Dining Table Set",
+    "image": "https://ik.imagekit.io/2xkwa8s1i/img/WDINEKOPRS6COPCBSWR1/0.jpg?tr=w-3840",
+    "description": "Wooden dining table with 4 chairs.",
+    "price": "3519",
+    "rating": "4.2",
+    "description2": "A perfect blend of style and functionality, this item stands out for its superior craftsmanship. Ideal for both everyday use and special occasions."
+  },
+  {
+    "id": 3,
+    "category": "Furniture",
+    "product": "Bookshelf",
+    "image": "https://woodenbazar.com/cdn/shop/files/marwar-solid-sheesham-wood-honey-finish-open-bookshelf-for-office-home-546.webp?v=1729357728",
+    "description": "5-tier open wooden bookshelf.",
+    "price": "1216",
+    "rating": "3.2",
+    "description2": "A trusted choice for many, this product balances elegance and efficiency. Its unique features and user-friendly design make it a popular pick."
+  },
+  {
+    "id": 4,
+    "category": "Furniture",
+    "product": "Office Chair",
+    "image": "https://cellbell.in/cdn/shop/files/B08R5GR57J.MAIN.png?v=1734437270",
+    "description": "Ergonomic office chair.",
+    "price": "3024",
+    "rating": "3.0",
+    "description2": "A trusted choice for many, this product balances elegance and efficiency. Its unique features and user-friendly design make it a popular pick."
+  },
+  {
+    "id": 5,
+    "category": "Furniture",
+    "product": "Wardrobe",
+    "image": "https://www.zorin.co.in/cdn/shop/files/KaraWardrobe_Liftstyle.jpg",
+    "description": "2-door wardrobe.",
+    "price": "4012",
+    "rating": "4.7",
+    "description2": "This product offers exceptional quality and durability, making it a great addition to your lifestyle. Crafted with precision and designed for comfort, it ensures long-term satisfaction."
+  },
+  {
+    "id": 6,
+    "category": "Furniture",
+    "product": "Bed Frame",
+    "image": "https://www.jangirdecor.in/cdn/shop/files/pixelcut-2_132.png?v=1716136731&width=360",
+    "description": "Queen size bed frame.",
+    "price": "2769",
+    "rating": "4.5",
+    "description2": "This item reflects fine design and practical application. Whether for personal or professional use, it delivers outstanding performance and comfort."
+  },
+  {
+    "id": 7,
+    "category": "Furniture",
+    "product": "Coffee Table",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh7sWOpaGsd9zMhrdKXVOn9Oe3YSOq_-E4dw&s",
+    "description": "Modern glass coffee table.",
+    "price": "861",
+    "rating": "3.5",
+    "description2": "Carefully designed to meet modern needs, this product combines aesthetics with usability. It\u2019s built to offer reliability and enhance your day-to-day experience."
+  },
+  {
+    "id": 8,
+    "category": "Furniture",
+    "product": "TV Stand",
+    "image": "https://woodbuzz.in/cdn/shop/files/Walnut01_64d3e0d2-3664-457c-9200-151cf2441520.jpg?v=1721886992",
+    "description": "Wooden TV stand with storage.",
+    "price": "3921",
+    "rating": "3.8",
+    "description2": "This item reflects fine design and practical application. Whether for personal or professional use, it delivers outstanding performance and comfort."
+  },
+  {
+    "id": 9,
+    "category": "Furniture",
+    "product": "Sofa Bed",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvXXh4UD8qxnaJA5Vr3iJWZIC3OCNSgDpbLw&s",
+    "description": "Convertible sofa bed.",
+    "price": "4893",
+    "rating": "4.1",
+    "description2": "A perfect blend of style and functionality, this item stands out for its superior craftsmanship. Ideal for both everyday use and special occasions."
+  },
+  {
+    "id": 10,
+    "category": "Furniture",
+    "product": "Bar Stools",
+    "image": "https://www.jangirdecor.in/cdn/shop/products/image_c88fe83a-367d-44fe-80be-280c16535c15.png?v=1678172323",
+    "description": "Set of 2 bar stools.",
+    "price": "4246",
+    "rating": "4.8",
+    "description2": "A trusted choice for many, this product balances elegance and efficiency. Its unique features and user-friendly design make it a popular pick."
+  },
+  {
+    "id": 11,
+    "category": "Furniture",
+    "product": "Side Table",
+    "image": "https://images.durian.in/Durian/durian/product/800x800/260431679123316.jpg",
+    "description": "Small side table.",
+    "price": "4870",
+    "rating": "4.9",
+    "description2": "A perfect blend of style and functionality, this item stands out for its superior craftsmanship. Ideal for both everyday use and special occasions."
+  },
+  {
+    "id": 12,
+    "category": "Furniture",
+    "product": "Console Table",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbPKJjwkPz25y9Wn8qz-6r2hGSYC9ondXN9Q&s",
+    "description": "Elegant console table.",
+    "price": "3512",
+    "rating": "4.6",
+    "description2": "This item reflects fine design and practical application. Whether for personal or professional use, it delivers outstanding performance and comfort."
+  },
+  {
+    "id": 13,
+    "category": "Furniture",
+    "product": "High Chair",
+    "image": "https://dolphy.in/upload/files/DHWC0002.jpg",
+    "description": "Baby high chair.",
+    "price": "2890",
+    "rating": "3.8",
+    "description2": "This product offers exceptional quality and durability, making it a great addition to your lifestyle. Crafted with precision and designed for comfort, it ensures long-term satisfaction."
+  },
+  {
+    "id": 14,
+    "category": "Furniture",
+    "product": "Rocking Chair",
+    "image": "https://rukminim2.flixcart.com/image/850/1000/xif0q/rocking-chair/k/g/o/58-1-seater-rosewood-sheesham-128-20-rocking-chair097-brown-original-imah2z2hfpfmvtr6.jpeg?q=90&crop=false",
+    "description": "Comfortable rocking chair.",
+    "price": "1360",
+    "rating": "4.1",
+    "description2": "A perfect blend of style and functionality, this item stands out for its superior craftsmanship. Ideal for both everyday use and special occasions."
+  },
+  {
+    "id": 15,
+    "category": "Furniture",
+    "product": "Futon",
+    "image": "https://images-cdn.ubuy.co.in/633b05f09438fc33c2724f9d-ubuy-online-shopping.jpg",
+    "description": "Modern futon.",
+    "price": "2619",
+    "rating": "3.9",
+    "description2": "A trusted choice for many, this product balances elegance and efficiency. Its unique features and user-friendly design make it a popular pick."
+  },
+  {
+    "id": 16,
+    "category": "Furniture",
+    "product": "File Cabinet",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0dKVuP7z-PZZMZeii7ftruVnsr4OodPUAlg&s",
+    "description": "Office file cabinet.",
+    "price": "455",
+    "rating": "3.4",
+    "description2": "This item reflects fine design and practical application. Whether for personal or professional use, it delivers outstanding performance and comfort."
+  },
+  {
+    "id": 17,
+    "category": "Furniture",
+    "product": "Coat Rack",
+    "image": "https://www.galacy.in/wp-content/uploads/2020/10/ADA-Wall-Coat-Racks-Coat-Stand-Wooden-Clothes-Rack-Stand-with-Hooks-Tree-Hall-Coat-Rack-Stand-for-Coats.jpg",
+    "description": "Standing coat rack.",
+    "price": "4995",
+    "rating": "4.3",
+    "description2": "This product offers exceptional quality and durability, making it a great addition to your lifestyle. Crafted with precision and designed for comfort, it ensures long-term satisfaction."
+  },
+  {
+    "id": 18,
+    "category": "Furniture",
+    "product": "Shoe Rack",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjBPrGATUaVjnD_Ln5zBYTc06BsLIHlh7Bkw&s",
+    "description": "3-tier shoe rack.",
+    "price": "3020",
+    "rating": "4.0",
+    "description2": "A trusted choice for many, this product balances elegance and efficiency. Its unique features and user-friendly design make it a popular pick."
+  },
+  {
+    "id": 19,
+    "category": "Furniture",
+    "product": "Room Divider",
+    "image": "https://woodentwist.com/cdn/shop/products/009_fc975c00-0ebc-470e-9e7c-d7f4154e8c35.jpg?v=1743253859",
+    "description": "Folding room divider.",
+    "price": "202",
+    "rating": "3.8",
+    "description2": "A trusted choice for many, this product balances elegance and efficiency. Its unique features and user-friendly design make it a popular pick."
+  },
+  {
+    "id": 20,
+    "category": "Furniture",
+    "product": "Vanity Table",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDzA9NzWWzWLeKS168Xsgq3kveX6G6fodG1Q&s",
+    "description": "Vanity table with mirror.",
+    "price": "4100",
+    "rating": "3.9",
+    "description2": "This product offers exceptional quality and durability, making it a great addition to your lifestyle. Crafted with precision and designed for comfort, it ensures long-term satisfaction."
+  },
+  {
+    "id": 21,
+    "category": "Clothing",
+    "product": "Men's Winter Jacket",
+    "image": "https://s.alicdn.com/@sc04/kf/H3c1d64ef66974232ade036aefdca9db8n.jpg_720x720q50.jpg",
+    "description": "Warm jacket for cold weather.",
+    "price": "3003",
+    "rating": "4.7",
+    "description2": "Carefully designed to meet modern needs, this product combines aesthetics with usability. It\u2019s built to offer reliability and enhance your day-to-day experience."
+  },
+  {
+    "id": 22,
+    "category": "Clothing",
+    "product": "Women's Saree",
+    "image": "https://kalpana.net/cdn/shop/products/00948994-1.jpg?v=1690975205",
+    "description": "Traditional silk saree.",
+    "price": "3213",
+    "rating": "3.8",
+    "description2": "A perfect blend of style and functionality, this item stands out for its superior craftsmanship. Ideal for both everyday use and special occasions."
+  },
+  {
+    "id": 23,
+    "category": "Clothing",
+    "product": "Kids T-Shirts",
+    "image": "https://www.xtees.com/uploads/products/images/primary/chocolate-printed-kids-t-shirt_1682428868.jpg",
+    "description": "Colorful kids t-shirts.",
+    "price": "3547",
+    "rating": "3.6",
+    "description2": "A perfect blend of style and functionality, this item stands out for its superior craftsmanship. Ideal for both everyday use and special occasions."
+  },
+  {
+    "id": 24,
+    "category": "Clothing",
+    "product": "Men's Formal Pants",
+    "image": "https://5.imimg.com/data5/FP/JS/MY-31258951/formal-men-cotton-pant-500x500.jpg",
+    "description": "Formal cotton pants.",
+    "price": "3221",
+    "rating": "4.3",
+    "description2": "Carefully designed to meet modern needs, this product combines aesthetics with usability. It\u2019s built to offer reliability and enhance your day-to-day experience."
+  },
+  {
+    "id": 25,
+    "category": "Clothing",
+    "product": "Women's Handbag",
+    "image": "https://images-cdn.ubuy.qa/65549af2c46d250dfa7f774b-women-purses-and-handbags-top-handle.jpg ",
+    "description": "Leather handbag.",
+    "price": "1282",
+    "rating": "3.2",
+    "description2": "A trusted choice for many, this product balances elegance and efficiency. Its unique features and user-friendly design make it a popular pick."
+  },
+  {
+    "id": 26,
+    "category": "Clothing",
+    "product": "Men's Casual Shirt",
+    "image": "https://5.imimg.com/data5/FH/KJ/OI/SELLER-3023183/men-branded-slim-fit-shirt.jpg",
+    "description": "Casual button-down shirt.",
+    "price": "262",
+    "rating": "4.4",
+    "description2": "This item reflects fine design and practical application. Whether for personal or professional use, it delivers outstanding performance and comfort."
+  },
+  {
+    "id": 27,
+    "category": "Clothing",
+    "product": "Women's Jeans",
+    "image": "https://5.imimg.com/data5/ANDROID/Default/2023/10/351528921/KO/FS/KU/188843886/product-jpeg-500x500.jpg",
+    "description": "Slim fit jeans.",
+    "price": "834",
+    "rating": "3.9",
+    "description2": "A perfect blend of style and functionality, this item stands out for its superior craftsmanship. Ideal for both everyday use and special occasions."
+  },
+  {
+    "id": 28,
+    "category": "Clothing",
+    "product": "Kids Dress",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTeIyHZY4msHBb1n7lL6iV3z9w0BtPH4AK_w&sn",
+    "description": "Summer dress for kids.",
+    "price": "2938",
+    "rating": "3.4",
+    "description2": "A trusted choice for many, this product balances elegance and efficiency. Its unique features and user-friendly design make it a popular pick."
+  },
+  {
+    "id": 29,
+    "category": "Clothing",
+    "product": "Men's Shorts",
+    "image": "https://www.jiomart.com/images/product/original/rvgl5ijilg/shopyholik-men-shorts-combo-pack-of-2-product-images-rvgl5ijilg-2-202209030933.jpg?im=Resize=(500,630)",
+    "description": "Casual shorts.",
+    "price": "2691",
+    "rating": "4.8",
+    "description2": "A trusted choice for many, this product balances elegance and efficiency. Its unique features and user-friendly design make it a popular pick."
+  },
+  {
+    "id": 30,
+    "category": "Clothing",
+    "product": "Handkerchief",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjtOcmzrx0NkFn80RnD2FpixHg2tLTjncnQw&s",
+    "description": "Soft Handkerchief",
+    "price": "804",
+    "rating": "4.7",
+    "description2": "This item reflects fine design and practical application. Whether for personal or professional use, it delivers outstanding performance and comfort."
+  },
+  {
+    "id": 31,
+    "category": "Clothing",
+    "product": "Men's Blazer",
+    "image": "https://images-cdn.ubuy.co.in/65b2d1cc2b601f50560c4fc0-mylldey-mens-blazers-slim-fit-business.jpg",
+    "description": "Formal suit.",
+    "price": "3183",
+    "rating": "4.1",
+    "description2": "This product offers exceptional quality and durability, making it a great addition to your lifestyle. Crafted with precision and designed for comfort, it ensures long-term satisfaction."
+  },
+  {
+    "id": 32,
+    "category": "Clothing",
+    "product": "Towel",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbubDb9lrIx0peZg6wA1VDzZVAJ-viEY0KjA&s",
+    "description": "Comfortable Towels",
+    "price": "202",
+    "rating": "4.7",
+    "description2": "This product offers exceptional quality and durability, making it a great addition to your lifestyle. Crafted with precision and designed for comfort, it ensures long-term satisfaction."
+  },
+  {
+    "id": 33,
+    "category": "Clothing",
+    "product": "Kids Sweater",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKKDaNSWtqHhUDW7NSFw_vKamxes7vLZnkFw&s",
+    "description": "Warm kids sweater.",
+    "price": "3263",
+    "rating": "4.6",
+    "description2": "This item reflects fine design and practical application. Whether for personal or professional use, it delivers outstanding performance and comfort."
+  },
+  {
+    "id": 34,
+    "category": "Clothing",
+    "product": "Men's T-Shirt",
+    "image": "https://d2fy0k1bcbbnwr.cloudfront.net/Designs_Inners_and_Outers/Tshirts/Men/tshirt_hs_men_pat_d48_o.jpg",
+    "description": "Cotton t-shirt.",
+    "price": "1023",
+    "rating": "3.4",
+    "description2": "This item reflects fine design and practical application. Whether for personal or professional use, it delivers outstanding performance and comfort."
+  },
+  {
+    "id": 35,
+    "category": "Clothing",
+    "product": "Women's Top",
+    "image": "https://tiimg.tistatic.com/fp/1/007/566/daily-wear-white-colour-printed-ladies-tops-with-cotton-fabrics-and-long-sleeve-670.jpg",
+    "description": "Casual women's top.",
+    "price": "2423",
+    "rating": "4.5",
+    "description2": "Carefully designed to meet modern needs, this product combines aesthetics with usability. It\u2019s built to offer reliability and enhance your day-to-day experience."
+  },
+  {
+    "id": 36,
+    "category": "Clothing",
+    "product": "Men's Jeans",
+    "image": "https://5.imimg.com/data5/SELLER/Default/2020/11/LW/DP/CP/14955745/mens-denim-jeans-250x250.jpg",
+    "description": "Classic men's jeans.",
+    "price": "1480",
+    "rating": "3.9",
+    "description2": "This item reflects fine design and practical application. Whether for personal or professional use, it delivers outstanding performance and comfort."
+  },
+  {
+    "id": 37,
+    "category": "Clothing",
+    "product": "Women's Dress",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4eIS-4gkrWYskER4kUI9qkGiIUjPIP803oh-_Z7pcNIYIvkEHd4XeUcCXrfuP8l7FO1g&usqp=CAU",
+    "description": "Summer dress.",
+    "price": "4161",
+    "rating": "3.5",
+    "description2": "This product offers exceptional quality and durability, making it a great addition to your lifestyle. Crafted with precision and designed for comfort, it ensures long-term satisfaction."
+  },
+  {
+    "id": 38,
+    "category": "Clothing",
+    "product": "Kids Jacket",
+    "image": "https://woollen-wear.in/image/cache/data/kids-jackets/boys-jackets/lure-junior/aw24-25/22538%20olive/44_A_White-1400x1782.jpg",
+    "description": "Light kids jacket.",
+    "price": "2006",
+    "rating": "4.4",
+    "description2": "Carefully designed to meet modern needs, this product combines aesthetics with usability. It\u2019s built to offer reliability and enhance your day-to-day experience."
+  },
+  {
+    "id": 39,
+    "category": "Clothing",
+    "product": "Men's Swimwear",
+    "image": "https://m.media-amazon.com/images/I/61fdSi6sZNL._AC_UY350_.jpg",
+    "description": "Men's swimwear.",
+    "price": "2091",
+    "rating": "3.6",
+    "description2": "This product offers exceptional quality and durability, making it a great addition to your lifestyle. Crafted with precision and designed for comfort, it ensures long-term satisfaction."
+  },
+  {
+    "id": 40,
+    "category": "Clothing",
+    "product": "Women's Leggings",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFzGYrsnvXk6ThT5zk_5Wk1hzUF1KA2ij7j4ATPqRZyWBioXAaTH6CvboRcZtGM1a5XA0&usqp=CAU",
+    "description": "Comfortable leggings.",
+    "price": "3602",
+    "rating": "4.0",
+    "description2": "A perfect blend of style and functionality, this item stands out for its superior craftsmanship. Ideal for both everyday use and special occasions."
+  },
+  {
+    "id": 41,
+    "category": "Electronics",
+    "product": "Smartphone",
+    "image": "https://images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s931-sm-s931blbqins-thumb-544656234?$264_264_PNG$",
+    "description": "Android phone, 64GB.",
+    "price": "1546",
+    "rating": "4.7",
+    "description2": "This item reflects fine design and practical application. Whether for personal or professional use, it delivers outstanding performance and comfort."
+  },
+  {
+    "id": 42,
+    "category": "Electronics",
+    "product": "Laptop",
+    "image": "https://helios-i.mashable.com/imagery/roundup-products/05JlXlJsMNOxzJikzU1L7oZ/product-image.fit_lpad.size_672x378.v1721854768.png",
+    "description": "Functional laptop.",
+    "price": "2533",
+    "rating": "5.0",
+    "description2": "Carefully designed to meet modern needs, this product combines aesthetics with usability. It\u2019s built to offer reliability and enhance your day-to-day experience."
+  },
+  {
+    "id": 43,
+    "category": "Electronics",
+    "product": "Bluetooth Speaker",
+    "image": "https://images-cdn.ubuy.co.in/633ff668d5bfc656c91eef1a-bluetooth-speaker-60w80w-peak-booming.jpg",
+    "description": "Wireless speaker.",
+    "price": "2698",
+    "rating": "3.1",
+    "description2": "This item reflects fine design and practical application. Whether for personal or professional use, it delivers outstanding performance and comfort."
+  },
+  {
+    "id": 44,
+    "category": "Electronics",
+    "product": "LED TV",
+    "image": "https://dynamicdistributora97dc.zapwp.com/q:i/r:0/wp:1/w:480/u:https://dynamicdistributors.in/wp-content/uploads/2023/10/32LQ640BPTA-vDZ-05_jpg-1.jpg",
+    "description": "32-inch LED TV.",
+    "price": "721",
+    "rating": "3.1",
+    "description2": "This product offers exceptional quality and durability, making it a great addition to your lifestyle. Crafted with precision and designed for comfort, it ensures long-term satisfaction."
+  },
+  {
+    "id": 45,
+    "category": "Electronics",
+    "product": "Tablet",
+    "image": "https://media.wired.com/photos/649b2dbfc859c4a1cdecc412/master/w_960,c_limit/Amazon-Fire-Max-11-Review--Stand-Gear.jpg",
+    "description": "7-inch tablet.",
+    "price": "3706",
+    "rating": "4.6",
+    "description2": "A perfect blend of style and functionality, this item stands out for its superior craftsmanship. Ideal for both everyday use and special occasions."
+  },
+  {
+    "id": 46,
+    "category": "Electronics",
+    "product": "Smartwatch",
+    "image": "https://5.imimg.com/data5/SELLER/Default/2023/1/EW/BS/ID/99197044/men-smart-watch.png",
+    "description": "Smartwatch with fitness tracking.",
+    "price": "1055",
+    "rating": "4.5",
+    "description2": "This item reflects fine design and practical application. Whether for personal or professional use, it delivers outstanding performance and comfort."
+  },
+  {
+    "id": 47,
+    "category": "Electronics",
+    "product": "Headphones",
+    "image": "https://www.boat-lifestyle.com/cdn/shop/products/main2_b66dce6b-710d-49cb-9d1c-2bc8c9c0ab15.png?v=1645698328",
+    "description": "Over-ear headphones.",
+    "price": "900",
+    "rating": "4.2",
+    "description2": "A perfect blend of style and functionality, this item stands out for its superior craftsmanship. Ideal for both everyday use and special occasions."
+  },
+  {
+    "id": 48,
+    "category": "Electronics",
+    "product": "Camera",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuNGdjIdNIOvAPNpYRi-VN5Nii-bfpEU3mJA&s",
+    "description": "Digital camera.",
+    "price": "3621",
+    "rating": "3.4",
+    "description2": "This item reflects fine design and practical application. Whether for personal or professional use, it delivers outstanding performance and comfort."
+  },
+  {
+    "id": 49,
+    "category": "Electronics",
+    "product": "Gaming Console",
+    "image": "https://m.media-amazon.com/images/I/61A4hfsV2pL._AC_UF350,350_QL80_.jpg",
+    "description": "Gaming console.",
+    "price": "1325",
+    "rating": "4.5",
+    "description2": "Carefully designed to meet modern needs, this product combines aesthetics with usability. It\u2019s built to offer reliability and enhance your day-to-day experience."
+  },
+  {
+    "id": 50,
+    "category": "Electronics",
+    "product": "Router",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCscS-59TajF04J6aDS6CcV6cQZtCrDvwqug&s",
+    "description": "Wireless router.",
+    "price": "3039",
+    "rating": "3.5",
+    "description2": "This product offers exceptional quality and durability, making it a great addition to your lifestyle. Crafted with precision and designed for comfort, it ensures long-term satisfaction."
+  },
+  {
+    "id": 51,
+    "category": "Electronics",
+    "product": "Printer",
+    "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1697020678/Croma%20Assets/Computers%20Peripherals/Printers%20and%20Scanners/Images/197501_0_wioza6.png",
+    "description": "Inkjet printer.",
+    "price": "1416",
+    "rating": "4.9",
+    "description2": "This item reflects fine design and practical application. Whether for personal or professional use, it delivers outstanding performance and comfort."
+  },
+  {
+    "id": 52,
+    "category": "Electronics",
+    "product": "Monitor",
+    "image": "https://m.media-amazon.com/images/I/71+qQN-3KvL.jpg",
+    "description": "24-inch monitor.",
+    "price": "1884",
+    "rating": "4.7",
+    "description2": "This item reflects fine design and practical application. Whether for personal or professional use, it delivers outstanding performance and comfort."
+  },
+  {
+    "id": 53,
+    "category": "Electronics",
+    "product": "Keyboard",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQicfRTVl5WxQJMw_1XR-BFHy5_CbC4PUkxNRPHlWO5zardv1hUjsoyT9SJ8G0kLIDqnE4&usqp=CAU",
+    "description": "Wireless keyboard.",
+    "price": "3330",
+    "rating": "3.7",
+    "description2": "Carefully designed to meet modern needs, this product combines aesthetics with usability. It\u2019s built to offer reliability and enhance your day-to-day experience."
+  },
+  {
+    "id": 54,
+    "category": "Electronics",
+    "product": "Mouse",
+    "image": "https://m.media-amazon.com/images/I/614q24eTLBL.jpg",
+    "description": "Wireless mouse.",
+    "price": "2576",
+    "rating": "4.2",
+    "description2": "This product offers exceptional quality and durability, making it a great addition to your lifestyle. Crafted with precision and designed for comfort, it ensures long-term satisfaction."
+  },
+  {
+    "id": 55,
+    "category": "Electronics",
+    "product": "External Hard Drive",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2bBAFQ2GGbqNkrTL2DQDIsbMD3qRJn5tBSg&s",
+    "description": "1TB external hard drive.",
+    "price": "444",
+    "rating": "3.7",
+    "description2": "This product offers exceptional quality and durability, making it a great addition to your lifestyle. Crafted with precision and designed for comfort, it ensures long-term satisfaction."
+  },
+  {
+    "id": 56,
+    "category": "Electronics",
+    "product": "USB Hub",
+    "image": "https://images-cdn.ubuy.co.in/6526dbec686f1d57027d39b7-4-port-usb-hub-expander-for-laptop-pc.jpg",
+    "description": "4-port USB hub.",
+    "price": "1706",
+    "rating": "4.6",
+    "description2": "A perfect blend of style and functionality, this item stands out for its superior craftsmanship. Ideal for both everyday use and special occasions."
+  },
+  {
+    "id": 57,
+    "category": "Electronics",
+    "product": "Webcam",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Logicool_StreamCam_%28cropped%29.jpg",
+    "description": "HD webcam.",
+    "price": "4499",
+    "rating": "3.2",
+    "description2": "Carefully designed to meet modern needs, this product combines aesthetics with usability. It\u2019s built to offer reliability and enhance your day-to-day experience."
+  },
+  {
+    "id": 58,
+    "category": "Electronics",
+    "product": "VR Headset",
+    "image": "https://ausha.co.in/cdn/shop/products/A-1.jpg?v=1703852442",
+    "description": "Virtual reality headset.",
+    "price": "1606",
+    "rating": "4.6",
+    "description2": "A trusted choice for many, this product balances elegance and efficiency. Its unique features and user-friendly design make it a popular pick."
+  },
+  {
+    "id": 59,
+    "category": "Electronics",
+    "product": "Portable Charger",
+    "image": "https://m.media-amazon.com/images/I/614OfiBkyZL.jpg",
+    "description": "Portable phone charger.",
+    "price": "2383",
+    "rating": "4.4",
+    "description2": "A perfect blend of style and functionality, this item stands out for its superior craftsmanship. Ideal for both everyday use and special occasions."
+  },
+  {
+    "id": 60,
+    "category": "Electronics",
+    "product": "Earbuds",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRoH1FVqXmtQaPVbxYo6PYydWBazgypysZjA&s",
+    "description": "Wireless earbuds.",
+    "price": "3439",
+    "rating": "4.6",
+    "description2": "A perfect blend of style and functionality, this item stands out for its superior craftsmanship. Ideal for both everyday use and special occasions."
+  },
+  {
+    "id": 61,
+    "category": "Books",
+    "product": "Science Textbook",
+    "image": "https://raajkart.com/media/catalog/product/cache/378cf9a83101843e5b8b1271b991c285/9/9/99.jpg",
+    "description": "Class 10 science textbook.",
+    "price": "375",
+    "rating": "3.4",
+    "description2": "This product offers exceptional quality and durability, making it a great addition to your lifestyle. Crafted with precision and designed for comfort, it ensures long-term satisfaction."
+  },
+  {
+    "id": 62,
+    "category": "Books",
+    "product": "English Grammar Book",
+    "image": "https://rukminim2.flixcart.com/image/850/1000/l5h2xe80/book/7/l/k/english-grammar-for-competitive-examinations-original-imagg5exww7sdzfm.jpeg?q=90&crop=false",
+    "description": "English grammar practice book.",
+    "price": "4189",
+    "rating": "3.4",
+    "description2": "This product offers exceptional quality and durability, making it a great addition to your lifestyle. Crafted with precision and designed for comfort, it ensures long-term satisfaction."
+  },
+  {
+    "id": 63,
+    "category": "Books",
+    "product": "Children's Story Book",
+    "image": "https://rukminim3.flixcart.com/image/850/1000/xif0q/regionalbooks/8/p/s/moral-story-book-for-kids-1-years-to-10-years-old-in-english-original-imah8fzuxvwvrfds.jpeg?q=90&crop=false",
+    "description": "Short bedtime stories.",
+    "price": "4530",
+    "rating": "4.2",
+    "description2": "This product offers exceptional quality and durability, making it a great addition to your lifestyle. Crafted with precision and designed for comfort, it ensures long-term satisfaction."
+  },
+  {
+    "id": 64,
+    "category": "Books",
+    "product": "Competitive Exam Guide",
+    "image": "https://assets.booksbybsf.com/products/CompGuideForNursingCompExamFreeBookletE.webp",
+    "description": "Aptitude exam practice.",
+    "price": "3151",
+    "rating": "3.3",
+    "description2": "Carefully designed to meet modern needs, this product combines aesthetics with usability. It\u2019s built to offer reliability and enhance your day-to-day experience."
+  },
+  {
+    "id": 65,
+    "category": "Books",
+    "product": "Motivational Book",
+    "image": "https://nalandasgurukulpune.com/wp-content/uploads/2020/05/book-img2-300x300.jpg",
+    "description": "Self-help book.",
+    "price": "1299",
+    "rating": "3.8",
+    "description2": "A perfect blend of style and functionality, this item stands out for its superior craftsmanship. Ideal for both everyday use and special occasions."
+  },
+  {
+    "id": 66,
+    "category": "Books",
+    "product": "Fiction Novel",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ5f2XgBd__zvqm1Or9eZLu_ziNoi3UG2-5A&s",
+    "description": "Bestselling fiction novel.",
+    "price": "3435",
+    "rating": "3.8",
+    "description2": "This item reflects fine design and practical application. Whether for personal or professional use, it delivers outstanding performance and comfort."
+  },
+  {
+    "id": 67,
+    "category": "Books",
+    "product": "History Book",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIRpfmdl9ns6c8L4A_GkidC5sSueqjUbgg-w&s",
+    "description": "World history book.",
+    "price": "4001",
+    "rating": "3.4",
+    "description2": "This item reflects fine design and practical application. Whether for personal or professional use, it delivers outstanding performance and comfort."
+  },
+  {
+    "id": 68,
+    "category": "Books",
+    "product": "Cookbook",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz4GnBHwA2EI_N5YJpuOF8teaHrt6hSUl82Q&s",
+    "description": "Popular recipes cookbook.",
+    "price": "993",
+    "rating": "3.5",
+    "description2": "A trusted choice for many, this product balances elegance and efficiency. Its unique features and user-friendly design make it a popular pick."
+  },
+  {
+    "id": 69,
+    "category": "Books",
+    "product": "Travel Guide",
+    "image": "https://m.media-amazon.com/images/I/71fq5az6E5L._UF1000,1000_QL80_.jpg",
+    "description": "Travel guide book.",
+    "price": "4784",
+    "rating": "3.4",
+    "description2": "A trusted choice for many, this product balances elegance and efficiency. Its unique features and user-friendly design make it a popular pick."
+  },
+  {
+    "id": 70,
+    "category": "Books",
+    "product": "Poetry Collection",
+    "image": "https://littlebookbigstory.com/wp-content/uploads/2016/05/golden-book-of-poetry-1-1024x683.jpg",
+    "description": "Collection of poems.",
+    "price": "3804",
+    "rating": "3.3",
+    "description2": "Carefully designed to meet modern needs, this product combines aesthetics with usability. It\u2019s built to offer reliability and enhance your day-to-day experience."
+  },
+  {
+    "id": 71,
+    "category": "Books",
+    "product": "Science Fiction",
+    "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1710258350-81Xb8fFEkwL.jpg?crop=1xw:1xh;center,top&resize=980:*",
+    "description": "Science fiction novel.",
+    "price": "1501",
+    "rating": "3.5",
+    "description2": "Carefully designed to meet modern needs, this product combines aesthetics with usability. It\u2019s built to offer reliability and enhance your day-to-day experience."
+  },
+  {
+    "id": 72,
+    "category": "Books",
+    "product": "Biography",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4-EAlURmIRqfZNJ7D_HCm4MXbSM6PcIStfQ&s",
+    "description": "Autobiography book.",
+    "price": "2561",
+    "rating": "4.2",
+    "description2": "This item reflects fine design and practical application. Whether for personal or professional use, it delivers outstanding performance and comfort."
+  },
+  {
+    "id": 73,
+    "category": "Books",
+    "product": "Business Book",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7WS7XGfSXD8aw2EznQxBpzmLy02wN3YTB7w&s",
+    "description": "Business strategy book.",
+    "price": "1610",
+    "rating": "3.1",
+    "description2": "A perfect blend of style and functionality, this item stands out for its superior craftsmanship. Ideal for both everyday use and special occasions."
+  },
+  {
+    "id": 74,
+    "category": "Books",
+    "product": "Self-Help Book",
+    "image": "https://m.media-amazon.com/images/I/71Z2NaEz8xL.jpg",
+    "description": "Personal growth book.",
+    "price": "801",
+    "rating": "3.7",
+    "description2": "Carefully designed to meet modern needs, this product combines aesthetics with usability. It\u2019s built to offer reliability and enhance your day-to-day experience."
+  },
+  {
+    "id": 75,
+    "category": "Books",
+    "product": "Art Book",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV8siGU50tQc-p2yrB3gpmr8siq4IWYlP94Q&s",
+    "description": "Artist's book.",
+    "price": "4506",
+    "rating": "4.3",
+    "description2": "This item reflects fine design and practical application. Whether for personal or professional use, it delivers outstanding performance and comfort."
+  },
+  {
+    "id": 76,
+    "category": "Books",
+    "product": "Philosophy Book",
+    "image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9780671201593/story-of-philosophy-9780671201593_hr.jpg",
+    "description": "Philosophy book.",
+    "price": "2876",
+    "rating": "3.0",
+    "description2": "This item reflects fine design and practical application. Whether for personal or professional use, it delivers outstanding performance and comfort."
+  },
+  {
+    "id": 77,
+    "category": "Books",
+    "product": "Religion Book",
+    "image": "https://cdn.penguin.co.in/wp-content/uploads/2024/08/9780143466888.jpg",
+    "description": "Religious text.",
+    "price": "4514",
+    "rating": "4.8",
+    "description2": "This item reflects fine design and practical application. Whether for personal or professional use, it delivers outstanding performance and comfort."
+  },
+  {
+    "id": 78,
+    "category": "Books",
+    "product": "Humor Book",
+    "image": "https://m.media-amazon.com/images/I/91+931eYwyL._AC_UF1000,1000_QL80_.jpg",
+    "description": "Humorous book.",
+    "price": "1058",
+    "rating": "4.7",
+    "description2": "This item reflects fine design and practical application. Whether for personal or professional use, it delivers outstanding performance and comfort."
+  },
+  {
+    "id": 79,
+    "category": "Books",
+    "product": "Health Book",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScO0jiN_tANEh1rHkqIcVdS0MXjOnFxxwGKw&s",
+    "description": "Health and wellness book.",
+    "price": "2045",
+    "rating": "4.4",
+    "description2": "This item reflects fine design and practical application. Whether for personal or professional use, it delivers outstanding performance and comfort."
+  },
+  {
+    "id": 80,
+    "category": "Books",
+    "product": "Parenting Book",
+    "image": "https://m.media-amazon.com/images/I/71NT48r0bfL._AC_UF1000,1000_QL80_.jpg",
+    "description": "Parenting guide.",
+    "price": "2324",
+    "rating": "3.5",
+    "description2": "This item reflects fine design and practical application. Whether for personal or professional use, it delivers outstanding performance and comfort."
+  },
+  {
+    "id": 81,
+    "category": "Accessories",
+    "product": "School Backpack",
+    "image": "https://uppercase.co.in/cdn/shop/files/1_88209a6c-c592-4179-b3a4-bc00e78e2131.png?v=1743583821",
+    "description": "Durable school backpack.",
+    "price": "2576",
+    "rating": "4.5",
+    "description2": "A perfect blend of style and functionality, this item stands out for its superior craftsmanship. Ideal for both everyday use and special occasions."
+  },
+  {
+    "id": 82,
+    "category": "Accessories",
+    "product": "Analog Wrist Watch",
+    "image": "https://m.media-amazon.com/images/I/61eF0+PyukL._SY879_.jpg",
+    "description": "Stylish analog watch.",
+    "price": "1316",
+    "rating": "4.5",
+    "description2": "This product offers exceptional quality and durability, making it a great addition to your lifestyle. Crafted with precision and designed for comfort, it ensures long-term satisfaction."
+  },
+  {
+    "id": 83,
+    "category": "Accessories",
+    "product": "Wall Clock",
+    "image": "https://5.imimg.com/data5/MG/BD/GX/SELLER-20257703/wooden-wall-clock6-500x500.jpg",
+    "description": "Classic wall clock.",
+    "price": "4397",
+    "rating": "4.1",
+    "description2": "This item reflects fine design and practical application. Whether for personal or professional use, it delivers outstanding performance and comfort."
+  },
+  {
+    "id": 84,
+    "category": "Accessories",
+    "product": "Table Lamp",
+    "image": "https://assets.ajio.com/medias/sys_master/root/20240807/dfov/66b34dac1d763220fa65b0b3/-473Wx593H-465883824-multi-MODEL.jpg",
+    "description": "Adjustable table lamp.",
+    "price": "3774",
+    "rating": "3.2",
+    "description2": "A perfect blend of style and functionality, this item stands out for its superior craftsmanship. Ideal for both everyday use and special occasions."
+  },
+  {
+    "id": 85,
+    "category": "Accessories",
+    "product": "Laptop Bag",
+    "image": "https://www.thewalletstore.in/cdn/shop/files/01.1_e91bb37c-5a80-4b2a-bc3a-fc706a4cae54.jpg?v=1723025356",
+    "description": "Padded laptop bag.",
+    "price": "3133",
+    "rating": "4.6",
+    "description2": "A trusted choice for many, this product balances elegance and efficiency. Its unique features and user-friendly design make it a popular pick."
+  },
+  {
+    "id": 86,
+    "category": "Accessories",
+    "product": "Sunglasses",
+    "image": "https://d3995ea24pmi7m.cloudfront.net/media/catalog/product/M/8/M8021BR7V_1_lar.jpg",
+    "description": "Stylish sunglasses.",
+    "price": "2434",
+    "rating": "3.9",
+    "description2": "This item reflects fine design and practical application. Whether for personal or professional use, it delivers outstanding performance and comfort."
+  },
+  {
+    "id": 87,
+    "category": "Accessories",
+    "product": "Scarf",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvQJ-BLbuTOjZy_kz64YpzK5y85vF09sCI8yWFaJCPIuqCmUlJAAmHKZOUquSvR4WbUiE&usqp=CAU",
+    "description": "Warm winter scarf.",
+    "price": "3940",
+    "rating": "3.8",
+    "description2": "This item reflects fine design and practical application. Whether for personal or professional use, it delivers outstanding performance and comfort."
+  },
+  {
+    "id": 88,
+    "category": "Accessories",
+    "product": "Belt",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPUjTMoA8PfFx8RpcZve3H4EEOMEcj_e8o1Q&s",
+    "description": "Leather belt.",
+    "price": "751",
+    "rating": "3.2",
+    "description2": "A perfect blend of style and functionality, this item stands out for its superior craftsmanship. Ideal for both everyday use and special occasions."
+  },
+  {
+    "id": 89,
+    "category": "Accessories",
+    "product": "Hat",
+    "image": "https://rukminim2.flixcart.com/image/850/1000/xif0q/hat/0/8/1/fashionable-round-hat-for-men-21-inch-1-round-hat-fedora4-original-imahfckpgagvhwgs.jpeg?q=20&crop=false",
+    "description": "Casual hat.",
+    "price": "476",
+    "rating": "3.6",
+    "description2": "A perfect blend of style and functionality, this item stands out for its superior craftsmanship. Ideal for both everyday use and special occasions."
+  },
+  {
+    "id": 90,
+    "category": "Accessories",
+    "product": "Gloves",
+    "image": "https://images-cdn.ubuy.co.in/659f803e99e3de670056c458-men-s-thinsulate-thick-water-resistant.jpg",
+    "description": "Winter gloves.",
+    "price": "2617",
+    "rating": "4.0",
+    "description2": "A trusted choice for many, this product balances elegance and efficiency. Its unique features and user-friendly design make it a popular pick."
+  },
+  {
+    "id": 91,
+    "category": "Toys",
+    "product": "Building Blocks Set",
+    "image": "https://m.media-amazon.com/images/I/81KLkN6wQaL.jpg",
+    "description": "Large set of colorful building blocks for creative play.",
+    "price": "3498",
+    "rating": "3.9",
+    "description2": "A trusted choice for many, this product balances elegance and efficiency. Its unique features and user-friendly design make it a popular pick."
+  },
+  {
+    "id": 92,
+    "category": "Toys",
+    "product": "Remote Control Car",
+    "image": "https://images.meesho.com/images/products/456902277/qjbhq_512.webp",
+    "description": "Fast remote control car with responsive controls.",
+    "price": "3752",
+    "rating": "3.0",
+    "description2": "Carefully designed to meet modern needs, this product combines aesthetics with usability. It\u2019s built to offer reliability and enhance your day-to-day experience."
+  },
+  {
+    "id": 93,
+    "category": "Toys",
+    "product": "Soft Plush Teddy Bear",
+    "image": "https://assets.ajio.com/medias/sys_master/root/20240912/egzQ/66e2efb41d763220fae23684/-1117Wx1400H-4924091110-multi-MODEL.jpg",
+    "description": "Soft and cuddly plush teddy bear, perfect for gifting.",
+    "price": "2410",
+    "rating": "4.6",
+    "description2": "A perfect blend of style and functionality, this item stands out for its superior craftsmanship. Ideal for both everyday use and special occasions."
+  },
+  {
+    "id": 94,
+    "category": "Toys",
+    "product": "Educational Puzzle",
+    "image": "https://cdn.fcglcdn.com/brainbees/images/products/583x720/11243678a.webp",
+    "description": "Interactive puzzle designed to teach basic concepts.",
+    "price": "4514",
+    "rating": "4.0",
+    "description2": "Carefully designed to meet modern needs, this product combines aesthetics with usability. It\u2019s built to offer reliability and enhance your day-to-day experience."
+  },
+  {
+    "id": 95,
+    "category": "Toys",
+    "product": "Doll with Accessories",
+    "image": "https://m.media-amazon.com/images/I/81OeJ-m-K3L.jpg",
+    "description": "Fashion doll with a variety of clothing and accessories.",
+    "price": "3057",
+    "rating": "4.8",
+    "description2": "A perfect blend of style and functionality, this item stands out for its superior craftsmanship. Ideal for both everyday use and special occasions."
+  },
+  {
+    "id": 96,
+    "category": "Toys",
+    "product": "Board Game",
+    "image": "https://ukbuyzone.co.uk/cdn/shop/files/3feb555d-0f54-4896-a5cc-dc7d1baa3231.jpg?v=1696370492&width=1500",
+    "description": "Classic strategy board game for family fun.",
+    "price": "4154",
+    "rating": "4.5",
+    "description2": "Carefully designed to meet modern needs, this product combines aesthetics with usability. It\u2019s built to offer reliability and enhance your day-to-day experience."
+  },
+  {
+    "id": 97,
+    "category": "Toys",
+    "product": "Action Figure",
+    "image": "https://cdn.fcglcdn.com/brainbees/images/products/583x720/17520374a.webp",
+    "description": "Collectible action figure from popular series.",
+    "price": "4272",
+    "rating": "4.5",
+    "description2": "This item reflects fine design and practical application. Whether for personal or professional use, it delivers outstanding performance and comfort."
+  },
+  {
+    "id": 98,
+    "category": "Toys",
+    "product": "Musical Instrument Set",
+    "image": "https://m.media-amazon.com/images/I/71d-V3gMg7L.jpg",
+    "description": "Set of small musical instruments for kids.",
+    "price": "3071",
+    "rating": "3.9",
+    "description2": "This item reflects fine design and practical application. Whether for personal or professional use, it delivers outstanding performance and comfort."
+  },
+  {
+    "id": 99,
+    "category": "Toys",
+    "product": "Science Kit",
+    "image": "https://snooplay.in/cdn/shop/products/ScienceKitJunior207_1800x1800.png?v=1633599630",
+    "description": "Kit for conducting fun science experiments at home.",
+    "price": "3197",
+    "rating": "3.8",
+    "description2": "This product offers exceptional quality and durability, making it a great addition to your lifestyle. Crafted with precision and designed for comfort, it ensures long-term satisfaction."
+  },
+  {
+    "id": 100,
+    "category": "Toys",
+    "product": "Art Supplies Set",
+    "image": "https://shop.crayola.com/dw/image/v2/AALB_PRD/on/demandware.static/-/Sites-crayola-storefront/default/dwe049eb93/images/04-1053_Imagination-Art-Set_Main.jpg?sw=790&sh=790&sm=fit&sfrm=jpg",
+    "description": "Set of crayons, markers, and paper for drawing and coloring.",
+    "price": "2796",
+    "rating": "4.4",
+    "description2": "This product offers exceptional quality and durability, making it a great addition to your lifestyle. Crafted with precision and designed for comfort, it ensures long-term satisfaction."
+  },
+  {
+    "id": 101,
+    "category": "Fashion",
+    "product": "Silver Stud Earrings",
+    "image": "https://www.shutterstock.com/image-photo/woman-opening-diamond-earring-wooden-600nw-2506814925.jpg",
+    "description": "Classic silver stud earrings.",
+    "price": "782",
+    "rating": "3.1",
+    "description2": "A perfect blend of style and functionality, this item stands out for its superior craftsmanship. Ideal for both everyday use and special occasions."
+  },
+  {
+    "id": 102,
+    "category": "Fashion",
+    "product": "Necklace Pendant",
+    "image": "https://images-cdn.ubuy.co.in/633ffb355f9c6a436e79a63c-geff-house-velvet-necklace-pendant-box.jpg",
+    "description": "Elegant necklace with a gemstone pendant.",
+    "price": "1741",
+    "rating": "3.5",
+    "description2": "A perfect blend of style and functionality, this item stands out for its superior craftsmanship. Ideal for both everyday use and special occasions."
+  },
+  {
+    "id": 103,
+    "category": "Fashion",
+    "product": "Fashion Scarf",
+    "image": "https://5.imimg.com/data5/SELLER/Default/2022/5/LD/RP/JO/65727/fashion-scarf-500x500.jpg",
+    "description": "Stylish scarf with a unique pattern.",
+    "price": "767",
+    "rating": "3.8",
+    "description2": "A perfect blend of style and functionality, this item stands out for its superior craftsmanship. Ideal for both everyday use and special occasions."
+  },
+  {
+    "id": 104,
+    "category": "Fashion",
+    "product": "Wide Brim Hat",
+    "image": "https://m.media-amazon.com/images/I/61DZ-Jq+TfL._AC_SX679_.jpg",
+    "description": "Wide brim hat for sun protection and style.",
+    "price": "3555",
+    "rating": "4.1",
+    "description2": "This item reflects fine design and practical application. Whether for personal or professional use, it delivers outstanding performance and comfort."
+  },
+  {
+    "id": 105,
+    "category": "Fashion",
+    "product": "Leather Belt",
+    "image": "https://cdn07.nnnow.com/web-images/large/styles/KLREOM19OHC/1682506682566/1.jpg",
+    "description": "Genuine leather belt for men or women.",
+    "price": "4165",
+    "rating": "3.8",
+    "description2": "This item reflects fine design and practical application. Whether for personal or professional use, it delivers outstanding performance and comfort."
+  },
+  {
+    "id": 106,
+    "category": "Fashion",
+    "product": "Decorative Throw Pillow",
+    "image": "https://nestasia.in/cdn/shop/files/cushioncover_7_83a37fbb-f033-40fa-8481-6a879ec589fd.webp?v=1697631794&width=600",
+    "description": "Soft, decorative throw pillow for home.",
+    "price": "3996",
+    "rating": "3.6",
+    "description2": "A trusted choice for many, this product balances elegance and efficiency. Its unique features and user-friendly design make it a popular pick."
+  },
+  {
+    "id": 107,
+    "category": "Fashion",
+    "product": "Stylish Rug",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMKX28dW2S4izmnM2cUWYjkpBHYX40Tm3vcA&s",
+    "description": "A stylish rug to complement your home decor.",
+    "price": "4794",
+    "rating": "3.2",
+    "description2": "A perfect blend of style and functionality, this item stands out for its superior craftsmanship. Ideal for both everyday use and special occasions."
+  },
+  {
+    "id": 108,
+    "category": "Fashion",
+    "product": "Designer Wall Art",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK-RZ3YbcHhu7vTjoR5tWPRgCtHeHpnXRjJQ&s",
+    "description": "Unique wall art piece to add personality to your space.",
+    "price": "1104",
+    "rating": "3.9",
+    "description2": "A trusted choice for many, this product balances elegance and efficiency. Its unique features and user-friendly design make it a popular pick."
+  },
+  {
+    "id": 109,
+    "category": "Fashion",
+    "product": "Fashionable Throw Blanket",
+    "image": "https://images.meesho.com/images/products/188061392/6phsg_512.webp",
+    "description": "Soft and stylish throw blanket.",
+    "price": "1371",
+    "rating": "4.1",
+    "description2": "This product offers exceptional quality and durability, making it a great addition to your lifestyle. Crafted with precision and designed for comfort, it ensures long-term satisfaction."
+  },
+  {
+    "id": 110,
+    "category": "Fashion",
+    "product": "Ornamental Mirror",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4a3n1gLxr91NkSPu-ufusmriPdkj9s75XcA&s",
+    "description": "A decorative mirror to enhance your home.",
+    "price": "750",
+    "rating": "5.0",
+    "description2": "A perfect blend of style and functionality, this item stands out for its superior craftsmanship. Ideal for both everyday use and special occasions."
+  }
+]
