@@ -154,9 +154,9 @@ const LEADERBOARD = [
 const QUICK_ACTIONS = [
   {
     icon: 'trophy-outline',
-    title: 'Leaderboard',
+    title: 'DashBoard',
     colors: COLORS.gradientAccent,
-    route: '/shared/LeaderBoard',
+    route: '/shared/Gamification',
   },
   {
     icon: 'hand-heart',
@@ -218,7 +218,6 @@ const GamificationScreen = () => {
         <ImpactSummary stats={stats} />
         <RewardTrack />
         <ActivityTimeline />
-        <LeaderboardPreview />
         <ActionPanel />
       </Animated.ScrollView>
     </View>
@@ -418,32 +417,7 @@ const ActivityTimeline = () => (
   </Card>
 );
 
-const LeaderboardPreview = () => (
-  <Card style={styles.sectionCard}>
-    <Card.Title
-      title="Leaderboard Snapshot"
-      subtitle="You are trending upward"
-      titleStyle={styles.sectionTitle}
-      subtitleStyle={styles.sectionSubtitle}
-      left={props => <MaterialCommunityIcons {...props} name="podium-gold" color={COLORS.accentGold} size={24} />}
-      right={() => (
-        <Chip onPress={() => router.push('/shared/Gamification')} style={styles.viewAllChip} textStyle={styles.viewAllChipText}>
-          View all
-        </Chip>
-      )}
-    />
-    {LEADERBOARD.map(entry => (
-      <View key={entry.rank} style={styles.leaderboardRow}>
-        <Text style={styles.leaderboardRank}>#{entry.rank}</Text>
-        <View style={styles.leaderboardBody}>
-          <Text style={styles.leaderboardName}>{entry.name}</Text>
-          <Text style={styles.leaderboardTrend}>{entry.trend} today</Text>
-        </View>
-        <Text style={styles.leaderboardScore}>{entry.score} pts</Text>
-      </View>
-    ))}
-  </Card>
-);
+
 
 const ActionPanel = () => (
   <View style={styles.actionRow}>

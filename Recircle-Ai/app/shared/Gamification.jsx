@@ -67,7 +67,7 @@ const levelMetrics = [
   { 
     icon: "leaf", 
     label: "Impact Score", 
-    value: "1,240 pts",
+    value: "240 pts",
     gradient: GRADIENTS.emerald,
     progress: 62,
     trend: "+12%" // Like LinkedIn skill progress
@@ -148,14 +148,7 @@ const quickActions = [
     gradient: GRADIENTS.gold,
     badge: "3" // Notification badge like social apps
   },
-  { 
-    icon: "sparkles", 
-    label: "Daily Quest", 
-    helper: "New challenges", 
-    route: "/shared/GroupBuy",
-    gradient: GRADIENTS.purple,
-    badge: "1"
-  },
+  
   { 
     icon: "people", 
     label: "Community", 
@@ -193,6 +186,7 @@ const achievements = [
   },
 ];
 
+
 const leaderboard = [
   { rank: 1, name: "Green Syndicate", points: 1830, trend: "up", change: "+12", avatar: "🌿" },
   { rank: 2, name: "Circular Coop", points: 1714, trend: "down", change: "-8", avatar: "🔄" },
@@ -204,10 +198,19 @@ const leaderboard = [
 export default function Gamification() {
   const router = useRouter();
 
+  const goBack = () => {
+    router.back();
+  };
+
   // Header Component with proper alignment
   const HeaderSection = () => (
     <LinearGradient colors={GRADIENTS.premium} style={styles.hero}>
       <View style={styles.heroContent}>
+        {/* Back Button */}
+        <TouchableOpacity onPress={goBack} style={styles.backButton}>
+          <Ionicons name="arrow-back" size={24} color="#FFFFFF" />
+        </TouchableOpacity>
+        
         <View style={styles.heroHeader}>
           <View style={styles.heroTextContainer}>
             <Text style={styles.heroLabel}>GAMIFICATION DASHBOARD</Text>
@@ -362,6 +365,7 @@ export default function Gamification() {
     </View>
   );
 
+
   return (
     <SafeAreaView style={styles.safeArea}>
       <ScrollView 
@@ -457,50 +461,7 @@ export default function Gamification() {
         </View>
 
         {/* Leaderboard Preview - Inspired by gaming leaderboards */}
-        <View style={styles.section}>
-          <View style={styles.sectionHeader}>
-            <Text style={styles.sectionTitle}>Leaderboard</Text>
-            <Text style={styles.sectionSubtitle}>Top performers this week</Text>
-          </View>
-          <View style={styles.leaderboard}>
-            {leaderboard.slice(0, 3).map((entry, index) => (
-              <View
-                key={entry.rank}
-                style={[
-                  styles.leaderItem,
-                  entry.highlight && styles.leaderItemHighlight
-                ]}
-              >
-                <View style={styles.leaderLeft}>
-                  <View style={[
-                    styles.rankCircle,
-                    entry.rank <= 3 && styles.rankCircleTop
-                  ]}>
-                    <Text style={styles.rankText}>{entry.rank}</Text>
-                  </View>
-                  <Text style={styles.leaderAvatar}>{entry.avatar}</Text>
-                  <View style={styles.leaderInfo}>
-                    <Text style={styles.leaderName}>{entry.name}</Text>
-                    <View style={styles.trendIndicator}>
-                      <Ionicons 
-                        name={entry.trend === "up" ? "trending-up" : "trending-down"} 
-                        size={12} 
-                        color={entry.trend === "up" ? COLORS.success : COLORS.error} 
-                      />
-                      <Text style={[
-                        styles.trendText,
-                        { color: entry.trend === "up" ? COLORS.success : COLORS.error }
-                      ]}>
-                        {entry.change}
-                      </Text>
-                    </View>
-                  </View>
-                </View>
-                <Text style={styles.leaderPoints}>{entry.points}</Text>
-              </View>
-            ))}
-          </View>
-        </View>
+        
 
         {/* Recent Achievements - Inspired by LinkedIn accomplishments */}
         <View style={styles.section}>
@@ -513,17 +474,7 @@ export default function Gamification() {
           ))}
         </View>
 
-        {/* CTA Button - Inspired by fitness app CTAs */}
-        <TouchableOpacity 
-          style={styles.ctaButton}
-          onPress={() => router.push("/shared/LeaderBoard")}
-        >
-          <LinearGradient colors={GRADIENTS.premium} style={styles.ctaGradient}>
-            <Text style={styles.ctaText}>View Full Leaderboard</Text>
-            <Ionicons name="arrow-forward" size={20} color="#FFFFFF" />
-          </LinearGradient>
-        </TouchableOpacity>
-
+        
         <View style={styles.bottomSpacer} />
         </View>
       </ScrollView>
@@ -538,6 +489,15 @@ const styles = StyleSheet.create({
   },
   scrollView: {
     flex: 1,
+  },
+  backButton: {
+    position: 'absolute',
+    top: -40,
+    left: 0,
+    zIndex: 10,
+    padding: 8,
+    borderRadius: 20,
+    backgroundColor: 'rgba(255,255,255,0.2)',
   },
   hero: {
     paddingHorizontal: 24,
@@ -1108,6 +1068,151 @@ const styles = StyleSheet.create({
     color: "#FFFFFF",
     fontSize: 17,
     fontWeight: "800",
+  },
+  rewardsRow: {
+    paddingVertical: 10,
+  },
+  rewardCard: {
+    width: SCREEN_WIDTH * 0.7,
+    borderRadius: 18,
+    padding: 18,
+    marginRight: 16,
+    shadowColor: "#000",
+    shadowOpacity: 0.2,
+    shadowRadius: 8,
+    shadowOffset: { width: 0, height: 4 },
+  },
+  rewardHeader: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    alignItems: 'center',
+    marginBottom: 10,
+  },
+  rewardTag: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: 6,
+    backgroundColor: 'rgba(255,255,255,0.2)',
+    paddingHorizontal: 10,
+    paddingVertical: 4,
+    borderRadius: 12,
+  },
+  rewardTagText: {
+    color: '#fff',
+    fontSize: 12,
+    fontWeight: '600',
+    letterSpacing: 0.5,
+  },
+  rewardExpiry: {
+    color: 'rgba(255,255,255,0.8)',
+    fontSize: 12,
+    fontWeight: '500',
+  },
+  rewardTitle: {
+    color: '#fff',
+    fontSize: 20,
+    fontWeight: '700',
+  },
+  rewardDetail: {
+    color: 'rgba(255,255,255,0.9)',
+    marginTop: 6,
+    fontSize: 14,
+    lineHeight: 20,
+  },
+  rewardMetaRow: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    marginTop: 16,
+    paddingVertical: 10,
+    backgroundColor: 'rgba(255,255,255,0.15)',
+    borderRadius: 12,
+  },
+  rewardMeta: {
+    flex: 1,
+    alignItems: 'center',
+  },
+  rewardMetaLabel: {
+    color: 'rgba(255,255,255,0.8)',
+    fontSize: 12,
+    textTransform: 'uppercase',
+    letterSpacing: 0.5,
+  },
+  rewardMetaValue: {
+    color: '#fff',
+    fontSize: 16,
+    fontWeight: '700',
+    marginTop: 4,
+  },
+  rewardMetaDivider: {
+    width: 1,
+    height: 28,
+    backgroundColor: 'rgba(255,255,255,0.2)',
+  },
+  rewardButton: {
+    marginTop: 16,
+    backgroundColor: '#fff',
+    paddingVertical: 12,
+    borderRadius: 12,
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    alignItems: 'center',
+    paddingHorizontal: 16,
+  },
+  rewardButtonText: {
+    color: '#0F172A',
+    fontWeight: '700',
+  },
+  claimedSection: {
+    marginTop: 18,
+    backgroundColor: '#fff',
+    borderRadius: 16,
+    padding: 16,
+    borderWidth: 1,
+    borderColor: COLORS.border,
+  },
+  claimedHeader: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    alignItems: 'center',
+    marginBottom: 12,
+  },
+  claimedTitleHeader: {
+    fontSize: 16,
+    fontWeight: '700',
+    color: COLORS.textPrimary,
+  },
+  claimedCount: {
+    color: COLORS.textSecondary,
+    fontWeight: '600',
+  },
+  claimedRewardRow: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    paddingVertical: 10,
+    borderBottomWidth: 1,
+    borderBottomColor: COLORS.border,
+  },
+  claimedDot: {
+    width: 10,
+    height: 10,
+    borderRadius: 5,
+    marginRight: 10,
+  },
+  claimedInfo: {
+    flex: 1,
+  },
+  claimedTitle: {
+    fontWeight: '600',
+    color: COLORS.textPrimary,
+  },
+  claimedDetail: {
+    color: COLORS.textSecondary,
+    fontSize: 13,
+    marginTop: 2,
+  },
+  claimedDate: {
+    color: COLORS.textTertiary,
+    fontSize: 12,
   },
   bottomSpacer: {
     height: 20,
